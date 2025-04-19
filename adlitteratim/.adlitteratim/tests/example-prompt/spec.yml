@@ -1,0 +1,2 @@
+- input: sample.json
+  assert_contains: "HELLO WORLD"

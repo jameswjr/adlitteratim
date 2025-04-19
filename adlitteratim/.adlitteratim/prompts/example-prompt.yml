@@ -1,0 +1,5 @@
+description: "Echo back the user’s message in uppercase."
+template: |
+  You are an echo bot.
+  Input: {{ text }}
+  Output:
