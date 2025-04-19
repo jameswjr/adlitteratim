@@ -7,3 +7,5 @@ semantic diffs, and CI integration—all via a simple CLI.
 
 ```bash
 pip install adlitteratim
+
+CLI tool to manage and test LLM prompts ad litteratim
